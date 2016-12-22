@@ -1,0 +1,154 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    display: block;
+    width: 50%;
+    margin: 50px auto auto;
+}
+
+input {
+    margin-bottom: 5px;
+}
+
+textarea {
+    width: 600px;
+}
+
+#list {
+    display: block;
+    height: auto;
+    width: 600px;
+    margin-top: 50px;
+    border: solid 1px #ddd;
+}
+
+#list .item {
+    width: 98%;
+    height: 100px;
+    margin: 5px;
+    padding-bottom: 5px;
+    border-bottom: solid 1px #ddd;
+}
+
+#list .item .avatar {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    float: left;
+    margin: 0 5px 5px 0;
+    background: url("../img/stock-vector-flat-style-alphabet-icons-set-numbers-and-letters-vector-329061554.jpg");
+}
+
+#list .item .content {
+    float: left;
+    display: inline-block;
+}
+
+#list .item .a {
+    background-position: -138px -136px;
+}
+
+#list .item .b {
+    background-position: -364px -136px;
+}
+
+#list .item .c {
+    background-position: -590px -136px;
+}
+
+#list .item .d {
+    background-position: -816px -136px;
+}
+
+#list .item .e {
+    background-position: -1042px -136px;
+}
+
+#list .item .f {
+    background-position: -1257px -136px;
+}
+
+#list .item .g{
+    background-position: -138px -354px;
+}
+
+#list .item .h {
+    background-position: -364px -354px;
+}
+
+#list .item .i {
+    background-position: -587px -354px;
+}
+
+#list .item .j {
+    background-position: -816px -354px;
+}
+
+#list .item .k {
+    background-position: -1042px -360px;
+}
+
+#list .item .l {
+    background-position: -1266px -361px;
+}
+
+#list .item .m {
+    background-position: -138px -584px;
+}
+
+#list .item .n {
+    background-position: -364px -584px;
+}
+
+#list .item .o {
+    background-position: -588px -584px;
+}
+
+#list .item .p {
+    background-position: -816px -584px;
+}
+
+#list .item .q {
+    background-position: -1042px -584px;
+}
+
+#list .item .r {
+    background-position: -1268px -584px;
+}
+
+#list .item .s {
+    background-position: -138px -810px;
+}
+
+#list .item .t {
+    background-position: -361px -810px;
+}
+
+#list .item .u {
+    background-position: -590px -810px;
+}
+
+#list .item .v {
+    background-position: -816px -810px;
+}
+
+#list .item .w {
+    background-position: -1039px -810px;
+}
+
+#list .item .x {
+    background-position: -1263px -810px;
+}
+
+#list .item .y {
+    background-position: -138px -1034px;
+}
+
+#list .item .z {
+    background-position: -364px -1034px;
+}
+
